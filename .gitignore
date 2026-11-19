@@ -1,0 +1,17 @@
+# Vídeos baixados, transcrições e cortes renderizados
+work/
+*.mp4
+*.mkv
+*.webm
+*.mov
+*.m4a
+*.wav
+*.ass
+
+# Ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# Configurações locais do Claude Code
+.claude/settings.local.json
